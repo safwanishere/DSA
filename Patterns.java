@@ -388,7 +388,7 @@ public class Patterns{
         // pattern18(3);
         // pattern19(5);
         // pattern20(3);
-        // pattern21(3);
-        // pattern22(3);
+        // pattern21(7);
+        // pattern22(5);
     }
 }
